@@ -110,3 +110,7 @@ High-throughput screening and drug discovery
 📧 rev(tnelub)[at]gozel.ch  
 🔗 GitHub: gozelb.github.io  
 🔗 [LinkedIn](https://www.linkedin.com/in/bülent-gözel-45029863/)
+
+---
+
+*Profile picture is a custom pixel art made by my friend [@m4r71n_4r7](https://x.com/m4r71n_4r7).*
